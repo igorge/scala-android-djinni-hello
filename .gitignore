@@ -1,0 +1,12 @@
+.idea
+target/
+project/project
+bin/
+local.properties
+proguard-sbt.txt
+.externalNativeBuild
+jni/generated/**
+src/main/java/generated/**
+src/main/libs
+
+

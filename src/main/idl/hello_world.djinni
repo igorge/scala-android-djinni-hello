@@ -1,0 +1,13 @@
+logger = interface +j {
+    log(value: string);
+}
+
+
+hello_world = interface +c {
+    do_hello_world(key: string): i32;
+}
+
+
+hello_world_maker = interface +c {
+    static make(v: i32, l: logger): hello_world;
+}

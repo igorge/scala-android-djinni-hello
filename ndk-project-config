@@ -1,0 +1,6 @@
+PROJECT_ROOT="${PWD}/"
+RUNTIME=c++_shared
+NATIVE_API_LEVEL=18
+TARGET_B_DIR=.externalNativeBuild/cmake/
+TARGET_LIBRARY_DIR=src/main/libs/
+JNI_SRC=jni
