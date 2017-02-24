@@ -1,0 +1,3 @@
+[submodule "modules/djinni_jni"]
+	path = modules/djinni_jni
+	url = https://github.com/igorge/libdjinni_jni
